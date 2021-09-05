@@ -1,4 +1,4 @@
-# Bitcoin Bulk Balance Check Tool
+# Bi-t-coin Bulk Ba-lan-ce Che-ck Tool
 A tool to check the address balance for multiple bitcoin addresses.
 
 *To use it*  
